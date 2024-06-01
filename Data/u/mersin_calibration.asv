@@ -1,0 +1,41 @@
+
+params{52}.trials = [1,2,3,4,6,7,8,9];
+params{52}.longcrop  = 1:1000;
+params{49}.trials = [1,2,3,4,9];
+params{49}.longcrop  = 1:1000;
+params{48}.longcrop  = 401:1400;
+params{46}.longcrop  = 251:1250;
+params{43}.trials = [1,2,3,4,7];
+params{43}.longcrop  = 51:1050;
+params{42}.trials = [1,4,5,6];
+params{42}.longcrop  = 51:1050;
+params{41}.fftlength = 500;
+params{40}.trials = [1,2,3,6,9];
+params{40}.longcrop  = 76:1075;
+params{39}.trials = [1,2,3,4,5];
+params{39}.longcrop  = 51:1050;
+params{37}.trials = [1,2,5,9];
+params{37}.longcrop  = 76:1075;
+params{34}.longcrop  = 451:1450;
+params{31}.longcrop  = 326:1325;
+params{30}.longcrop  = 251:1250;
+params{28}.longcrop  = 376:1375;
+params{24}.longcrop  = 401:1400;
+params{23}.longcrop  = 301:1300;
+params{22}.trials = [1,3,4,5,7];
+params{22}.longcrop  = 51:1050;
+params{19}.trials = [1,2,3,4];
+params{19}.longcrop  = 201:1200;
+params{16}.longcrop  = 126:1125;
+params{14}.longcrop  = 463:1462;
+params{13}.longcrop  = 126:1125;
+params{6}.longcrop  = 51:1050;
+params{5}.longcrop  = 301:1300;
+params{4}.longcrop  = 176:1175;
+params{3}.longcrop  = 351:1350;
+params{19}.trials = [1,2,3];
+
+
+
+
+
