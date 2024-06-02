@@ -1,0 +1,21 @@
+Error variance eklenecek
+
+Deneylerde varkli inputlarla yapilmis testler olsa validasyon daha iyi olabilir
+
+ANOVA analizi yaptigimizi soyleyelim
+
+G 0,1,2 mean error ayni grafikte cizilecek (mean error CDF)
+
+Delay delaysiz olanlarin farklari
+
+Derece farki olanalari gosterelim
+
+Verilerin uc uca eklendigi ve estimation yapildigi analiz eklenebilir
+
+Delay olmasinin avntajini anlatalim (Error histogram uzerinden) 
+
+Time domandeki plotlarin aynilarinin FFT ile de yapilmasi
+
+baligin cutoff frekansi ile estimate karsilastirmasi (varyans vs.)
+
+7. ve 10. deneylerin bodelerini ve time domain plotlarini koyarak neden confidence'in yuksek oldugunu intutive olarak aciklayabiliriz
