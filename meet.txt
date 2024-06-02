@@ -19,3 +19,5 @@ Time domandeki plotlarin aynilarinin FFT ile de yapilmasi
 baligin cutoff frekansi ile estimate karsilastirmasi (varyans vs.)
 
 7. ve 10. deneylerin bodelerini ve time domain plotlarini koyarak neden confidence'in yuksek oldugunu intutive olarak aciklayabiliriz
+
+Bodelerde confidence yuksek olan deneyleri kullanarak combined (uc uca eklenmis system id). bunun ANOVA'si
